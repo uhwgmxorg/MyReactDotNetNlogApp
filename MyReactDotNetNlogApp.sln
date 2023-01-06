@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "my-react-app", "my-react-app\my-react-app.esproj", "{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDotNetNlogApi", "MyDotNetNlogApi\MyDotNetNlogApi.csproj", "{3E591F4E-B37C-4CAB-AC25-D4C75920E987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3653BD-3CCD-4F8A-A3A9-42EAE972934A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3E591F4E-B37C-4CAB-AC25-D4C75920E987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E591F4E-B37C-4CAB-AC25-D4C75920E987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E591F4E-B37C-4CAB-AC25-D4C75920E987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E591F4E-B37C-4CAB-AC25-D4C75920E987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126956BE-02DD-4EC9-95E8-B0270153F3F7}
+	EndGlobalSection
+EndGlobal
