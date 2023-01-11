@@ -1,0 +1,20 @@
+.app-field-container {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+}
+
+.app-field-container> label {
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+.app-field-container>input {
+    margin-bottom: 10px;
+}
+
+.app-field-container>button {
+    margin-top: 10px;
+}
