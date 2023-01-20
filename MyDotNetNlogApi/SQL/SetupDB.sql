@@ -13,7 +13,7 @@ IF OBJECT_ID('AppLogs', 'U') IS NULL
 BEGIN
 CREATE TABLE dbo.AppLogs(
     Id bigint IDENTITY(1,1) NOT NULL,
-    Added_Date datetime NOT NULL,
+    Added_Date nvarchar(40) NOT NULL,
     Level nvarchar(max) NULL,
 	Filter int NULL,
 	AppUser nvarchar(20) NULL,
